@@ -181,20 +181,3 @@ GitHub: https://github.com/your-username
 
 
 
-<p align="center">
-  <svg width="100%" height="180">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#6D28D9;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="180" fill="url(#grad)" rx="12" ry="12" />
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="42" font-weight="bold" fill="white" font-family="Segoe UI">
-      PhonePe Analytics Dashboard
-    </text>
-  </svg>
-</p>
-
-
