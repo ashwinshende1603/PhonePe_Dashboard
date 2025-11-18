@@ -1,9 +1,8 @@
-# 
+
+<h1 align="center">📱 PhonePe Analytics Dashboard — Power BI</h1>
+
 
 ![PhonePe](https://techstory.in/wp-content/uploads/2021/08/PhonePe-receives-insurance-broking-license.jpg)
-
-<!-- PhonePe Analytics Dashboard (Power BI) -->
-<h1 align="center">📱 PhonePe Analytics Dashboard — Power BI</h1>
 
 <p align="center">
   <b>A modern, multi-dashboard Power BI analytics project inspired by PhonePe’s digital payments ecosystem.</b>
