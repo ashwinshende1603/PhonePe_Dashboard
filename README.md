@@ -1,140 +1,69 @@
-# 📱 PhonePe Analytics Dashboard (Power BI)
+# PhonePe Analytics Dashboard (Power BI)
 
-A clean, professional, and insight‑driven **Power BI analytics dashboard** designed using a refined PhonePe-inspired purple theme. This project transforms raw digital transaction data into clear, actionable insights through well‑structured visuals and organized dashboards.
-
----
-
-## 🚀 Project Overview
-
-This repository contains a set of Power BI dashboards built for different data tables, including:
-
-* **User Table Dashboard**
-* **Insurance Table Dashboard**
-* **Money Transfer Dashboard**
-* **Recharge & Bill Payment Dashboard**
-
-Each dashboard focuses on presenting essential KPIs, trends, and comparison charts in a simple, readable, and professional layout.
+A clean, professional Power BI project presenting analytical dashboards inspired by the PhonePe payments ecosystem. This repository includes multiple dashboards built using a consistent light-purple theme and clear visual structure, focusing on practical business insights.
 
 ---
 
-## 📊 Key Features
+## 📊 Dashboards Included
 
-### **✔ Well‑Defined KPIs**
+- **Insurance Dashboard**
+- **Money Transfer Dashboard**
+- **Loan Dashboard**
+- **Recharge & Bills Dashboard**
 
-* Total Users
-* Average Age
-* Minimum & Maximum Premium
-* Total Transactions
-* Money Transfer KPIs
-* Recharge & Bill insights
-
-### **✔ Visualizations Included**
-
-* Monthly & Daily transaction analysis
-* Insurance type comparisons
-* User distribution visuals
-* Money transfer volume charts
-* Category-wise breakdowns
-
-### **✔ Interactive Filters & Slicers**
-
-* Date filters
-* Transaction / Insurance type slicers
-* User segmentation controls
-
-These components make the dashboard easy to navigate and suitable for business reporting.
+Each dashboard contains focused KPIs, comparison visuals, trend charts, and category-level insights.
 
 ---
 
-## 🎨 Theme & Styling
+## 🚀 Key Features
 
-The dashboard uses a clean light‑purple theme for a professional fintech look.
+### **✔ KPI Highlights**
+- Total Transactions  
+- Minimum & Maximum Premiums (Insurance)  
+- Loan Metrics  
+- Recharge & Bill Payment Metrics  
+- Money Transfer KPIs  
 
-### **Color Palette (Hex Codes)**
+### **✔ Analytical Visuals**
+- Month-wise & Day-wise transaction trends  
+- Category-wise comparisons  
+- Insurance type distribution  
+- Loan analysis charts  
+- Recharge & Bill segment breakdown  
+- User/activity-based segmentation  
 
-* `#D6B7FF` – Primary Soft Purple
-* `#C29BFF` – Accent Purple
-* `#EEDCFF` – Light Lavender Background
-* `#B980FF` – Highlight Shade
-* `#F6F0FF` – Card / Panel Backgrounds
-
-This palette keeps the visuals consistent and visually appealing without heavy UI/UX enhancements.
-
----
-
-## 📁 Project File
-
-```
-PhonePe Dashboard.pbix
-```
-
-Open the file in **Power BI Desktop** to explore, edit, or integrate your own data.
-
----
-
-## 🛠 Tools & Techniques Used
-
-* Microsoft Power BI Desktop
-* DAX Measures
-* Built‑in Power BI charts & formatting options
-* Custom PhonePe color palette
+### **✔ Interactive Controls**
+- Date slicers  
+- Category/Type filters  
+- Transaction-level filtering  
+- Segmentation controls for deeper analysis  
 
 ---
 
-## 📷 Dashboard Preview
+## 🎨 Theme (Color Palette)
 
-You can add your screenshots here after exporting them from Power BI.
+A refined purple theme is used throughout the project for consistency and a fintech-friendly visual identity.
 
-Recommended format:
-
-```md
-### 🖼 Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
-
-### 🖼 User Dashboard
-![User Dashboard](images/user_dashboard.png)
-
-### 🖼 Insurance Dashboard
-![Insurance Dashboard](images/insurance_dashboard.png)
-
-### 🖼 Money Transfer Dashboard
-![Money Transfer Dashboard](images/money_transfer_dashboard.png)
-
-### 🖼 Recharge & Bill Dashboard
-![Recharge & Bill Dashboard](images/recharge_bill_dashboard.png)
-```
-
-> Create an **images/** folder in your GitHub repository and upload all screenshots there.
+| Color Name | Hex Code |
+|-----------|----------|
+| Primary Soft Purple | `#D6B7FF` |
+| Accent Purple | `#C29BFF` |
+| Light Lavender Background | `#EEDCFF` |
+| Highlight Shade | `#B980FF` |
+| Card/Panel Background | `#F6F0FF` |
 
 ---
 
-## 📘 How to Customize
+## 🖼 Dashboard Screenshots
 
-1. Open the `.pbix` file in Power BI Desktop.
-2. Replace datasets with your own (if needed).
-3. Edit or extend DAX calculations.
-4. Update themes or visuals as per your reporting needs.
-5. Publish to Power BI Service for online access.
+### Insurance Dashboard
+<img width="1285" height="722" alt="INSURANCE Dashboard" src="https://github.com/user-attachments/assets/790680b4-fb2a-487d-8ee2-a2b51532db4a" />
 
----
+### Money Transfer Dashboard
+<img width="1274" height="709" alt="MONEY Transfer" src="https://github.com/user-attachments/assets/67c96f55-60d6-4947-b8c7-7d0750ff8630" />
 
-## 🤝 Contributing
+### Loan Dashboard
+<img width="1275" height="713" alt="LOAN Dashboard" src="https://github.com/user-attachments/assets/8dc3d7dc-cfe1-4446-a7cc-6913e256cb02" />
 
-Feel free to fork this repository, enhance visuals, or add new report pages. Contributions are welcome.
-
----
-
-## ⭐ Support
-
-If this project adds value to your work, consider giving it a **⭐ on GitHub**.
-
----
-
-## 📩 Contact
-
-For queries or custom dashboard development:
-**Email:** [your-email@example.com](mailto:your-email@example.com)
-
----
-
-**Professional Power BI Reporting — Inspired by PhonePe’s Digital Payments Ecosystem**
+### Recharge & Bills Dashboard
+<img width="1271" height="715" alt="RECHRAGE Dashboard" src="https://github.com/user-attachments/assets/b8ca9f56-0555-40ad-a384-b4d1d92a6e08" />
