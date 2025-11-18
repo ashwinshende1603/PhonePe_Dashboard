@@ -1,5 +1,7 @@
 # PhonePe Analytics Dashboard (Power BI)
 
+![PhonePe](https://techstory.in/wp-content/uploads/2021/08/PhonePe-receives-insurance-broking-license.jpg)
+
 A clean, professional Power BI project presenting analytical dashboards inspired by the PhonePe payments ecosystem. This repository includes multiple dashboards built using a consistent light-purple theme and clear visual structure, focusing on practical business insights.
 
 ---
@@ -31,12 +33,6 @@ Each dashboard contains focused KPIs, comparison visuals, trend charts, and cate
 - Loan analysis charts  
 - Recharge & Bill segment breakdown  
 - User/activity-based segmentation  
-
-### **✔ Interactive Controls**
-- Date slicers  
-- Category/Type filters  
-- Transaction-level filtering  
-- Segmentation controls for deeper analysis  
 
 ---
 
