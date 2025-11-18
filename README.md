@@ -47,18 +47,80 @@ Each dashboard is crafted for clarity, performance, and actionable insights.
 ┣ 📄 PhonePe Dashboard.pbix
 
 ┗ 📄 README.md
+
 ---
 
-## 🖼 Dashboard Screenshots
 
-### Insurance Dashboard
+---
+
+## 🚀 Features
+
+### 🔹 Key Metrics & KPIs
+- Transaction volume summaries  
+- Min/Max Premium (Insurance)  
+- Loan KPIs and eligibility insights  
+- Recharge & bill categories KPIs  
+- Money transfer summarization  
+
+### 🔹 Modern Visuals
+- Monthly & daily transaction distribution  
+- Category and type-based comparisons  
+- Trend analysis (line, bar, area charts)  
+- Segmentation by user/type/transaction  
+
+### 🔹 Interactive Experience
+- Slicers for date, category, type  
+- Dynamic comparative visuals  
+- Drill-down & drill-through enabled  
+
+---
+
+## 🎨 Theme & Styling
+
+A premium PhonePe-inspired palette:
+
+| Color | Hex |
+|-------|------|
+| Soft Purple | `#D6B7FF` |
+| Accent Purple | `#C29BFF` |
+| Lavender Background | `#EEDCFF` |
+| Deep Purple | `#B980FF` |
+| Light Panel Background | `#F6F0FF` |
+
+> Ensures consistency, legibility, and a polished fintech UI.
+
+---
+
+## 🖼 Dashboard Previews
+
+### **Insurance Dashboard**
 <img width="1285" height="722" alt="INSURANCE Dashboard" src="https://github.com/user-attachments/assets/790680b4-fb2a-487d-8ee2-a2b51532db4a" />
 
-### Money Transfer Dashboard
-<img width="1274" height="709" alt="MONEY Transfer" src="https://github.com/user-attachments/assets/67c96f55-60d6-4947-b8c7-7d0750ff8630" />
-
-### Loan Dashboard
+### **Money Transfer Dashboard**
 <img width="1275" height="713" alt="LOAN Dashboard" src="https://github.com/user-attachments/assets/8dc3d7dc-cfe1-4446-a7cc-6913e256cb02" />
 
-### Recharge & Bills Dashboard
+### **Loan Dashboard**
+<img width="1275" height="713" alt="LOAN Dashboard" src="https://github.com/user-attachments/assets/8dc3d7dc-cfe1-4446-a7cc-6913e256cb02" />
+
+### **Recharge & Bills Dashboard**
 <img width="1271" height="715" alt="RECHRAGE Dashboard" src="https://github.com/user-attachments/assets/b8ca9f56-0555-40ad-a384-b4d1d92a6e08" />
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Power BI Desktop**
+- **DAX Measures**
+- **Custom Color Themes**
+- **Professional Data Modeling**
+- **Clean & Minimal Visual Design**
+
+---
+
+## 📘 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/PhonePe-Analytics-Dashboard.git
+
+---
