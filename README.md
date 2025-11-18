@@ -50,9 +50,6 @@ Each dashboard is crafted for clarity, performance, and actionable insights.
 
 ---
 
-
----
-
 ## 🚀 Features
 
 ### 🔹 Key Metrics & KPIs
@@ -121,6 +118,37 @@ A premium PhonePe-inspired palette:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ashwinshende1603/PhonePe_Dashboard/tree/main
+   https://github.com/ashwinshende1603/PhonePe_Dashboard/tree/main
+
+2. Open the .pbix file in Power BI Desktop.
+
+3. Replace data or customize visuals as needed.
+
+4. Export or publish to Power BI Service.
+   
+---
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repository and submit a pull request.
 
 ---
+
+⭐ Show Your Support
+
+If you found this project helpful, please give it a star ⭐ to support continuous improvements.
+
+---
+
+📩 Contact
+
+For professional dashboard development or collaboration:
+
+Email: your-email@example.com
+
+GitHub: https://github.com/your-username
+
+---
+
+<h3 align="center">✨ Crafted with precision using Power BI ✨</h3> ```
