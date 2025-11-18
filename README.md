@@ -108,7 +108,7 @@ A premium PhonePe-inspired palette:
 
 
 ### **Money Transfer Dashboard**
-<img width="1275" height="713" alt="LOAN Dashboard" src="https://github.com/user-attachments/assets/8dc3d7dc-cfe1-4446-a7cc-6913e256cb02" />
+<img width="1000" height="600" alt="LOAN Dashboard" src="https://github.com/user-attachments/assets/8dc3d7dc-cfe1-4446-a7cc-6913e256cb02" />
 
 - Transactions peak during weekends and salary-credit cycles.
 - P2P (peer-to-peer) transfers dominate usage.
