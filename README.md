@@ -32,6 +32,17 @@ Each dashboard is crafted for clarity, performance, and actionable insights.
 
 ## 📁 Project Structure
 
+📦 PhonePe-Analytics-Dashboard
+│
+├── 📂 images/                      # Screenshots for README
+│   ├── insurance_dashboard.png
+│   ├── money_transfer_dashboard.png
+│   ├── loan_dashboard.png
+│   └── recharge_bills_dashboard.png
+│
+├── 📄 PhonePe Dashboard.pbix       # Main Power BI project file
+│
+└── 📄 README.md                    # Documentation
 
 ---
 
