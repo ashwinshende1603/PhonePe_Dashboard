@@ -1,52 +1,38 @@
-# PhonePe Analytics Dashboard (Power BI)
+# 
 
 ![PhonePe](https://techstory.in/wp-content/uploads/2021/08/PhonePe-receives-insurance-broking-license.jpg)
 
-A clean, professional Power BI project presenting analytical dashboards inspired by the PhonePe payments ecosystem. This repository includes multiple dashboards built using a consistent light-purple theme and clear visual structure, focusing on practical business insights.
+<!-- PhonePe Analytics Dashboard (Power BI) -->
+<h1 align="center">📱 PhonePe Analytics Dashboard — Power BI</h1>
+
+<p align="center">
+  <b>A modern, multi-dashboard Power BI analytics project inspired by PhonePe’s digital payments ecosystem.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version-1.0-blueviolet?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📊 Dashboards Included
+## ✨ Overview
 
-- **Insurance Dashboard**
-- **Money Transfer Dashboard**
-- **Loan Dashboard**
-- **Recharge & Bills Dashboard**
+This repository contains a set of **professionally designed Power BI dashboards** built using a modern purple color theme aligned with PhonePe’s identity.  
+It includes dashboards for:
 
-Each dashboard contains focused KPIs, comparison visuals, trend charts, and category-level insights.
+- **Insurance Analytics**
+- **Money Transfer Insights**
+- **Loan Analysis**
+- **Recharge & Bill Payments**
 
----
-
-## 🚀 Key Features
-
-### **✔ KPI Highlights**
-- Total Transactions  
-- Minimum & Maximum Premiums (Insurance)  
-- Loan Metrics  
-- Recharge & Bill Payment Metrics  
-- Money Transfer KPIs  
-
-### **✔ Analytical Visuals**
-- Month-wise & Day-wise transaction trends  
-- Category-wise comparisons  
-- Insurance type distribution  
-- Loan analysis charts  
-- Recharge & Bill segment breakdown  
-- User/activity-based segmentation  
+Each dashboard is crafted for clarity, performance, and actionable insights.
 
 ---
 
-## 🎨 Theme (Color Palette)
+## 📁 Project Structure
 
-A refined purple theme is used throughout the project for consistency and a fintech-friendly visual identity.
-
-| Color Name | Hex Code |
-|-----------|----------|
-| Primary Soft Purple | `#D6B7FF` |
-| Accent Purple | `#C29BFF` |
-| Light Lavender Background | `#EEDCFF` |
-| Highlight Shade | `#B980FF` |
-| Card/Panel Background | `#F6F0FF` |
 
 ---
 
