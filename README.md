@@ -121,6 +121,6 @@ A premium PhonePe-inspired palette:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PhonePe-Analytics-Dashboard.git
+   git clone https://github.com/ashwinshende1603/PhonePe_Dashboard/tree/main
 
 ---
