@@ -100,7 +100,7 @@ A premium PhonePe-inspired palette:
 ## 🖼 Dashboard Previews
 
 ### **Insurance Dashboard**
-<img width="1285" height="722" alt="INSURANCE Dashboard" src="https://github.com/user-attachments/assets/790680b4-fb2a-487d-8ee2-a2b51532db4a" />
+<img width="900" height="400" alt="INSURANCE Dashboard" src="https://github.com/user-attachments/assets/790680b4-fb2a-487d-8ee2-a2b51532db4a" />
 
 - Mid-range premium plans show the highest adoption.
 - Life & Health insurance generate the most transactions.
