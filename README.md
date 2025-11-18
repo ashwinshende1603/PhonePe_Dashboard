@@ -14,6 +14,20 @@
   <img src="https://img.shields.io/badge/Version-1.0-A64DFF?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20With-Power%20BI-5E00C7?style=flat-square&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Theme-PhonePe%20Purple-7D3CFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Visualized-4%20Dashboards-9C5DFF?style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dashboard-Insurance-6E00FF?style=for-the-badge&labelColor=3E0077"/>
+  <img src="https://img.shields.io/badge/Dashboard-Money%20Transfer-A95BFF?style=for-the-badge&labelColor=5A0CBF"/>
+  <img src="https://img.shields.io/badge/Dashboard-Loan-9B42FF?style=for-the-badge&labelColor=430191"/>
+  <img src="https://img.shields.io/badge/Dashboard-Recharge%20%26%20Bills-C59DFF?style=for-the-badge&labelColor=5500BB"/>
+</p>
+
+
 ---
 
 ## ✨ Overview
@@ -154,21 +168,6 @@ GitHub: https://github.com/your-username
 <h3 align="center">✨ Crafted with precision using Power BI ✨</h3> ```
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PhonePe%20Theme-Applied-4A148C?style=for-the-badge&logo=phonepe&logoColor=white"/>
-</p>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Power%20BI-5E00C7?style=flat-square&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Theme-PhonePe%20Purple-7D3CFF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Visualized-4%20Dashboards-9C5DFF?style=flat-square"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Dashboard-Insurance-6E00FF?style=for-the-badge&labelColor=3E0077"/>
-  <img src="https://img.shields.io/badge/Dashboard-Money%20Transfer-A95BFF?style=for-the-badge&labelColor=5A0CBF"/>
-  <img src="https://img.shields.io/badge/Dashboard-Loan-9B42FF?style=for-the-badge&labelColor=430191"/>
-  <img src="https://img.shields.io/badge/Dashboard-Recharge%20%26%20Bills-C59DFF?style=for-the-badge&labelColor=5500BB"/>
-</p>
 
