@@ -14,11 +14,6 @@
   <img src="https://img.shields.io/badge/Version-1.0-A64DFF?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Power%20BI-5E00C7?style=flat-square&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Theme-PhonePe%20Purple-7D3CFF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Visualized-4%20Dashboards-9C5DFF?style=flat-square"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dashboard-Insurance-6E00FF?style=for-the-badge&labelColor=3E0077"/>
