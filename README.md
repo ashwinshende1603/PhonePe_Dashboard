@@ -152,3 +152,11 @@ GitHub: https://github.com/your-username
 ---
 
 <h3 align="center">✨ Crafted with precision using Power BI ✨</h3> ```
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-PhonePe%20Analytics-7A1EE3?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Project%20Status-Active-9A2DEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version-1.0-A64DFF?style=for-the-badge"/>
+</p>
