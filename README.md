@@ -108,21 +108,21 @@ A premium PhonePe-inspired palette:
 
 
 ### **Money Transfer Dashboard**
-<img width="1000" height="600" alt="LOAN Dashboard" src="https://github.com/user-attachments/assets/8dc3d7dc-cfe1-4446-a7cc-6913e256cb02" />
+<img width="900" height="600" alt="LOAN Dashboard" src="https://github.com/user-attachments/assets/8dc3d7dc-cfe1-4446-a7cc-6913e256cb02" />
 
 - Transactions peak during weekends and salary-credit cycles.
 - P2P (peer-to-peer) transfers dominate usage.
 - Transaction volume shows steady month-over-month growth.
 
 ### **Loan Dashboard**
-<img width="1275" height="713" alt="LOAN Dashboard" src="https://github.com/user-attachments/assets/8dc3d7dc-cfe1-4446-a7cc-6913e256cb02" />
+<img width="900" height="600" alt="LOAN Dashboard" src="https://github.com/user-attachments/assets/8dc3d7dc-cfe1-4446-a7cc-6913e256cb02" />
 
 - Personal loans form the largest share of issued loans.
 - Loan amounts vary widely, indicating diverse financial needs.
 - Borrowing activity increases around festive and year-end periods.
 - 
 ### **Recharge & Bills Dashboard**
-<img width="1271" height="715" alt="RECHRAGE Dashboard" src="https://github.com/user-attachments/assets/b8ca9f56-0555-40ad-a384-b4d1d92a6e08" />
+<img width="900" height="600" alt="RECHRAGE Dashboard" src="https://github.com/user-attachments/assets/b8ca9f56-0555-40ad-a384-b4d1d92a6e08" />
 
 - Mobile and DTH recharges occur most frequently.
 - Utility bill payments contribute majorly to total transaction value.
