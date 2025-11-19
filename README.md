@@ -80,20 +80,15 @@ Each dashboard is crafted for clarity, performance, and actionable insights.
 - Drill-down & drill-through enabled  
 
 ---
+## 🛠 Tools & Technologies
 
-## 🎨 Theme & Styling
+<img width="300" height="200" alt="Logo-Power-BI" src="https://github.com/user-attachments/assets/76ba2236-afa2-4bcd-9984-c83b9fa63afc" />
 
-A premium PhonePe-inspired palette:
-
-| Color | Hex |
-|-------|------|
-| Soft Purple | `#D6B7FF` |
-| Accent Purple | `#C29BFF` |
-| Lavender Background | `#EEDCFF` |
-| Deep Purple | `#B980FF` |
-| Light Panel Background | `#F6F0FF` |
-
-> Ensures consistency, legibility, and a polished fintech UI.
+- **Power BI Desktop**
+- **DAX Measures**
+- **Custom Color Themes**
+- **Professional Data Modeling**
+- **Clean & Minimal Visual Design**
 
 ---
 
@@ -130,18 +125,6 @@ A premium PhonePe-inspired palette:
 
 ---
 
-## 🛠 Tools & Technologies
-
-<img width="500" height="200" alt="Logo-Power-BI" src="https://github.com/user-attachments/assets/76ba2236-afa2-4bcd-9984-c83b9fa63afc" />
-
-- **Power BI Desktop**
-- **DAX Measures**
-- **Custom Color Themes**
-- **Professional Data Modeling**
-- **Clean & Minimal Visual Design**
-
----
-
 ## 📘 How to Use
 
 1. Clone the repository:
@@ -154,6 +137,20 @@ A premium PhonePe-inspired palette:
 
 4. Export or publish to Power BI Service.
    
+---
+
+## 🎨 Theme & Styling
+
+A premium PhonePe-inspired palette:
+
+| Color | Hex |
+|-------|------|
+| Soft Purple | `#D6B7FF` |
+| Accent Purple | `#C29BFF` |
+| Lavender Background | `#EEDCFF` |
+| Deep Purple | `#B980FF` |
+| Light Panel Background | `#F6F0FF` |
+
 ---
 
 🤝 Contributing
