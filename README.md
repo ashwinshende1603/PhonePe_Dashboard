@@ -82,7 +82,7 @@ Each dashboard is crafted for clarity, performance, and actionable insights.
 ---
 ## 🛠 Tools & Technologies
 
-<img width="300" height="200" alt="Logo-Power-BI" src="https://github.com/user-attachments/assets/76ba2236-afa2-4bcd-9984-c83b9fa63afc" />
+<img width="150" height="50" alt="Logo-Power-BI" src="https://github.com/user-attachments/assets/76ba2236-afa2-4bcd-9984-c83b9fa63afc" />
 
 - **Power BI Desktop**
 - **DAX Measures**
