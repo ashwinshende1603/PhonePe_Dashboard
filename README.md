@@ -132,6 +132,8 @@ A premium PhonePe-inspired palette:
 
 ## 🛠 Tools & Technologies
 
+<img width="500" height="200" alt="Logo-Power-BI" src="https://github.com/user-attachments/assets/76ba2236-afa2-4bcd-9984-c83b9fa63afc" />
+
 - **Power BI Desktop**
 - **DAX Measures**
 - **Custom Color Themes**
